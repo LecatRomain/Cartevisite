@@ -9,7 +9,6 @@ body {
     
 }
 
-
 .carte {
 
     width: 340px;
@@ -68,7 +67,6 @@ body {
     justify-content: center;
     align-items: center;
 
-
 }
 
 .tabadr {
@@ -83,7 +81,6 @@ body {
     margin-top: 70px;
     text-align: center;
    
-
 }
 
 .bkgrndOrge {
@@ -95,7 +92,6 @@ body {
     align-items: center;
     
 } 
-
 
 .tabtel {
 
@@ -152,7 +148,7 @@ body {
     color: white;
     margin-top: 45px;
     text-align: center;
-
+    font-size: 12px;
 } 
 
 .moi {
